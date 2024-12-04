@@ -49,13 +49,13 @@
 
 ### [创建型模式](./CreationalPatterns)
 
-- 工厂模式(Factory Method)
+- [工厂模式(Factory Method)](./CreationalPatterns/FactoryMethodPattern/)
 - 抽象工厂(Abstract Factory)
 - 生成器(Builder)
 - 原型(Prototype)
 - 单例(Singleton)
 
-### 结构型模式
+### [结构型模式](./StructuralPatterns/)
 
 - 适配器(Adapter)
 - 桥接(Bridge)
@@ -65,7 +65,7 @@
 - 亨元(Flyweight)
 - 代理(Proxy)
 
-### 行为模式
+### [行为模式](./BehavioralPatterns/)
 
 - 责任链(Chain of Responsibility)
 - 命令(Command)
