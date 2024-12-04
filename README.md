@@ -1,11 +1,11 @@
 # 设计模式
 
-- [ ] 面向对象
-- [ ] 类图
-- [ ] 设计原则
+- [x] 面向对象
+- [x] 类图
+- [x] 设计原则
 - [ ] 设计模式学习
 
-## 面向对象的设计基础
+## [面向对象的设计基础](./Base/面向对象.md)
 
 - 抽象
 - 封装
@@ -25,7 +25,7 @@
 - 继承(Inheritance)
 - 依赖(Dependency)
 
-### 类图之间的关系
+### [类图之间的关系](./Base/对象之间的关系.md)
 
 - 继承关系(Generalization)
 - 实现关系(Realization)
@@ -35,7 +35,7 @@
 - 依赖关系(Dependency)
 - 类之间的多重关系(Multiplicity)
 
-## 设计原则
+## [设计原则](./Base/SOLID原则.md)
 
 ### SOLID原则
 
@@ -47,7 +47,7 @@
 
 ## 设计模式目录
 
-### 创建型模式
+### [创建型模式](./CreationalPatterns)
 
 - 工厂模式(Factory Method)
 - 抽象工厂(Abstract Factory)
@@ -76,3 +76,5 @@
 - 策略(Strategy)
 - 模式方法(Template Method)
 - 访问者(Visitor)
+
+该文档内容基于[Refactoring.Guru](https://refactoringguru.cn/)来进行学习。
